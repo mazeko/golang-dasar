@@ -1,2 +1,4 @@
 github.com/mazeko/go_sayhello v0.0.0-20221009101028-887926be7653 h1:icR2VhemWvYXaMUA/+UQyoszPLxsluq9jkn6XmKjysU=
 github.com/mazeko/go_sayhello v0.0.0-20221009101028-887926be7653/go.mod h1:6xHZq4Y/l+n0Af6nahJeFXWFC2FxahAT1G3E8jL+iK0=
+github.com/mazeko/go_sayhello v1.0.1 h1:IcgK3XJrOo61lAvpoPxdtsygq05UdwtZN3/pWn+QVms=
+github.com/mazeko/go_sayhello v1.0.1/go.mod h1:6xHZq4Y/l+n0Af6nahJeFXWFC2FxahAT1G3E8jL+iK0=
